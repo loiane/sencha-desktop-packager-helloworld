@@ -1,0 +1,12 @@
+{
+    "applicationName"      : "Desktop Packager",
+    "applicationIconPaths" : ["HelloWorld.ico", "HelloWorld.icns"],
+    "versionString"        : "1.0",
+    "outputPath"           : "build/DesktopPackager/package/",
+    "webAppPath"           : "build/DesktopPackager/production/",
+    "settings"             : {
+        "mainWindow" : {
+            "autoShow" : true
+        }
+    }
+}
